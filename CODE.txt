@@ -1,0 +1,10 @@
+Number;Causes;ICD-10 codes
+1;Cardiovascular diseases;I05-I52, I60-I69, I70-I79
+2;Ischemic heart diseases;I20-I25
+3;Hypertensive diseases;I10-I15
+4;Heart failure;I50
+5;Cardiomiopathies;I42
+6;Conduction disorders and cardiac arrhythmias;I44-I45, I47-I49
+7;Non-rheumatic valvulopathies;I34-I38
+8;Chronic rheumatic heart diseases;I05-I09
+9;Other forms of heart disease;I26-I28, I30-I33, I39-I41, I43, I46, I51-I52
