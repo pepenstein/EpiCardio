@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link href='https://unpkg.com/boxicons@2.1.2/css/boxicons.min.css' rel='stylesheet'>
+    <script src='https://polyfill.io/v3/polyfill.min.js?features=es6'></script>
+    <script id='MathJax-script' async src='https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js'></script>
+
+    <style>
+        header{
+            display: flex;
+            height: 30px;
+            margin-top: 0;
+        }
+
+        header #social_networks {
+            display: flex;
+            position: absolute;
+            right: 15px;
+            padding: 5px;
+            margin-top: -15px;
+        }
+        header #social_networks a{
+            color: #343A40;
+        }
+        header #social_networks a:hover{
+            color: gray;
+        }
+
+        header #social_networks i{
+            margin: 5px;
+            width: 25px;
+            height: 25px;
+            padding: 5px;
+        }
+
+        .title-logo {
+            display: flex;
+            margin-left: 2.5%;
+            height: 200px;
+        }
+        
+        .title-logo h1{
+            font-size: 48px;
+            float: left;
+            margin-top: 75px;
+            font-weight: 1000;
+            color: #343A40;
+        }
+        .title-logo .logo{
+            width: 125px;
+            height: 125px;
+            float: right;
+            margin-left: 93px;
+        }
+
+        .author {
+            display: block;
+            margin-left: 2.5%;
+            margin-top: -25px;
+            font-size: 20px;
+            font-weight: 600;
+        }
+        .text {
+            font-size: 18px;
+            margin-left: 2.5%;
+            margin-right: 2.5%;
+            text-align: justify;
+            line-height: 1.5;
+        }
+
+        .text a{
+            text-decoration: none;
+            color: #343A40;
+            font-weight: 600;
+        }
+
+        h2 {
+            margin-left: 2.5%;
+            font-weight: 600;            
+        }
+
+        blockquote{
+            background: #f9f9f9;
+            border-left: 10px solid #ccc;
+            margin-left: 2.5%;
+            margin-right: 2.5%;
+            padding: 0.5em 10px;
+        }
+
+        blockquote ul{
+            list-style: none;
+            line-height: 1.5;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <div id='social_networks'>
+            <a href="https://twitter.com/a_cabreja"><i class='bx bxl-twitter'></i></a>
+            <a href="https://cu.linkedin.com/in/jos%C3%A9-alejandro-%C3%A1vila-cabreja-b1148221b"><i class='bx bxl-linkedin-square'></i>
+            <a href="https://github.com/pepenstein/EpiCardio"><i class='bx bxl-github'></i></a>
+        </div>
+    </header>
+
+    <div class='title-logo'>
+        <h1>EpiCardio</h1>
+        <img class='logo' src='https://avatars.githubusercontent.com/u/112302277?s=400&u=cbd35fa32b91217fb520bde438550648ea09cf7c&v=4' alt='EpiCardio'>
+    </div>
+    <p class='author'>Jose Alejandro Avila Cabreja</p>
+    <p class='text'><b>EpiCardio</b> is a shiny app built using the R language, which allows you to visualise trends in cardiovascular disease mortality in Cuba between 2010 and 2020. Data are categorised by age, sex, specific cause and province. This is a purely informative tool and is not intended to replace the official means of dissemination of the Ministry of Public Health.</p>
+    <h2>Data source</h2>
+    <p class='text'>The data were extracted from health statistical yearbooks published between 2011 and 2021. These can be consulted on the <a href='https://files.sld.cu/bvscuba/category/anuario-estadistico/'>Virtual Health Library</a> web page.</p>
+    <h2>Methodology</h2>
+    <p class='text'>All information was extracted directly from health statistical yearbooks and entered into a database created in MS Excel for further management and validation.<br><br>The crude mortality rate (CMR) was calculated using the following formula:</p>
+    <blockquote>
+        $$CRM = \dfrac{TD}{TP} *100 000$$
+        <ul>
+            <li><i>Where</i></li>
+            <li>TD: Total deaths</li>
+            <li>TP: Total population</li>
+        </ul>
+    </blockquote>
+    <p class='text'>The annualised rate of change (ARC) was calculated using the following formula:</p>
+    <blockquote>
+        $$ARC = \dfrac{log(MRs) - log(MRe)}{I} *100$$
+        <ul>
+            <li><i>Where</i></li>
+            <li>MRs: Mortality rate at the start of the time interval</li>
+            <li>MRe: Mortality rate at the end of the time interval</li>
+            <li>I: Number of year in the interval</li>
+        </ul>
+    </blockquote>
+    <p class='text'>The 95 % confidence interval was calculated for all estimates.<br><br>Predictions for the next 5 years were calculated using a Elastic-Net Regularized Generalized Linear Model.</p>
+</body>
+</html>
+
