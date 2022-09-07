@@ -1,0 +1,163 @@
+Age,Sex,Cause,ARC,Lower,Upper
+All Ages,Both,Cardiovascular diseases,-2.09,-2.98,-1.2
+< 20,Both,Cardiovascular diseases,2.03,0.41,3.65
+20-39,Both,Cardiovascular diseases,1.4,0.69,2.11
+40-59,Both,Cardiovascular diseases,-1.97,-2.86,-1.07
+60-79,Both,Cardiovascular diseases,-2.11,-2.68,-1.54
+80 and more,Both,Cardiovascular diseases,-2.16,-2.69,-1.64
+All Ages,Female,Cardiovascular diseases,-2.08,-2.9,-1.27
+< 20,Female,Cardiovascular diseases,1.21,-2.75,5.18
+20-39,Female,Cardiovascular diseases,1.43,0.13,2.73
+40-59,Female,Cardiovascular diseases,-1.5,-2.14,-0.87
+60-79,Female,Cardiovascular diseases,-0.2,-0.67,0.28
+80 and more,Female,Cardiovascular diseases,-0.48,-1.13,0.17
+All Ages,Male,Cardiovascular diseases,-2.18,-3.15,-1.21
+< 20,Male,Cardiovascular diseases,0.96,-1.19,3.11
+20-39,Male,Cardiovascular diseases,-0.08,-0.82,0.66
+40-59,Male,Cardiovascular diseases,-1.36,-2.77,0.05
+60-79,Male,Cardiovascular diseases,-0.85,-1.53,-0.18
+80 and more,Male,Cardiovascular diseases,-0.36,-0.83,0.11
+All Ages,Both,Ischemic heart diseases,-1.11,-1.68,-0.54
+< 20,Both,Ischemic heart diseases,NA,NA,NA
+20-39,Both,Ischemic heart diseases,1.97,-3.13,7.07
+40-59,Both,Ischemic heart diseases,-0.75,-1.17,-0.32
+60-79,Both,Ischemic heart diseases,-1.05,-1.38,-0.72
+80 and more,Both,Ischemic heart diseases,-1.27,-1.77,-0.78
+All Ages,Female,Ischemic heart diseases,-1.19,-1.73,-0.65
+< 20,Female,Ischemic heart diseases,NA,NA,NA
+20-39,Female,Ischemic heart diseases,-1.4,-3.54,0.73
+40-59,Female,Ischemic heart diseases,-0.54,-0.86,-0.21
+60-79,Female,Ischemic heart diseases,0.88,0.48,1.28
+80 and more,Female,Ischemic heart diseases,0.32,-0.22,0.87
+All Ages,Male,Ischemic heart diseases,-1.13,-1.75,-0.5
+< 20,Male,Ischemic heart diseases,-Inf,NA,NA
+20-39,Male,Ischemic heart diseases,1.3,-5.84,8.44
+40-59,Male,Ischemic heart diseases,-0.02,-0.52,0.47
+60-79,Male,Ischemic heart diseases,0.2,-0.16,0.56
+80 and more,Male,Ischemic heart diseases,0.63,0.18,1.09
+All Ages,Both,Hypertensive diseases,-6.76,-9.19,-4.32
+< 20,Both,Hypertensive diseases,NA,NA,NA
+20-39,Both,Hypertensive diseases,-1.3,-3.57,0.97
+40-59,Both,Hypertensive diseases,-5.16,-7.38,-2.94
+60-79,Both,Hypertensive diseases,-6.29,-8.09,-4.48
+80 and more,Both,Hypertensive diseases,-7.86,-10.07,-5.66
+All Ages,Female,Hypertensive diseases,-6.65,-9.07,-4.24
+< 20,Female,Hypertensive diseases,Inf,NA,NA
+20-39,Female,Hypertensive diseases,2.9,0.74,5.05
+40-59,Female,Hypertensive diseases,-4.56,-6.56,-2.55
+60-79,Female,Hypertensive diseases,-4.4,-6.05,-2.75
+80 and more,Female,Hypertensive diseases,-5.8,-8.06,-3.54
+All Ages,Male,Hypertensive diseases,-6.97,-9.41,-4.52
+< 20,Male,Hypertensive diseases,-Inf,NA,NA
+20-39,Male,Hypertensive diseases,-5.51,-8.14,-2.88
+40-59,Male,Hypertensive diseases,-4.59,-6.59,-2.6
+60-79,Male,Hypertensive diseases,-5.04,-7.02,-3.06
+80 and more,Male,Hypertensive diseases,-6.52,-8.71,-4.33
+All Ages,Both,Heart failure,2.16,1.73,2.59
+< 20,Both,Heart failure,0,NA,NA
+20-39,Both,Heart failure,6.3,2.16,10.44
+40-59,Both,Heart failure,2.03,0.81,3.24
+60-79,Both,Heart failure,1.53,1.04,2.03
+80 and more,Both,Heart failure,2.53,1.37,3.68
+All Ages,Female,Heart failure,2.29,1.78,2.81
+< 20,Female,Heart failure,-Inf,NA,NA
+20-39,Female,Heart failure,0,NA,NA
+40-59,Female,Heart failure,3.24,1.4,5.08
+60-79,Female,Heart failure,3.67,3.18,4.15
+80 and more,Female,Heart failure,4.28,2.95,5.6
+All Ages,Male,Heart failure,1.94,1.51,2.37
+< 20,Male,Heart failure,0,NA,NA
+20-39,Male,Heart failure,12.6,7.04,18.17
+40-59,Male,Heart failure,2.03,1.19,2.87
+60-79,Male,Heart failure,2.59,1.89,3.3
+80 and more,Male,Heart failure,4.25,3.18,5.32
+All Ages,Both,Cardiomiopathies,-5.57,-7.71,-3.44
+< 20,Both,Cardiomiopathies,2.62,0.1,5.13
+20-39,Both,Cardiomiopathies,0.96,-1.43,3.35
+40-59,Both,Cardiomiopathies,-4.68,-6.44,-2.93
+60-79,Both,Cardiomiopathies,-5.93,-7.75,-4.12
+80 and more,Both,Cardiomiopathies,-7.26,-9.41,-5.11
+All Ages,Female,Cardiomiopathies,-5.63,-7.7,-3.55
+< 20,Female,Cardiomiopathies,-2.62,-9.06,3.83
+20-39,Female,Cardiomiopathies,0,-4.09,4.09
+40-59,Female,Cardiomiopathies,-1.79,-3.44,-0.14
+60-79,Female,Cardiomiopathies,-4.38,-6.08,-2.69
+80 and more,Female,Cardiomiopathies,-5.25,-7.53,-2.98
+All Ages,Male,Cardiomiopathies,-5.55,-7.77,-3.32
+< 20,Male,Cardiomiopathies,6.3,2.66,9.95
+20-39,Male,Cardiomiopathies,0.67,-2.23,3.58
+40-59,Male,Cardiomiopathies,-4.55,-6.41,-2.69
+60-79,Male,Cardiomiopathies,-4.37,-6.32,-2.42
+80 and more,Male,Cardiomiopathies,-5.84,-7.95,-3.74
+All Ages,Both,Conduction disorders and cardiac arrhythmias,-4.68,-6.4,-2.97
+< 20,Both,Conduction disorders and cardiac arrhythmias,NA,NA,NA
+20-39,Both,Conduction disorders and cardiac arrhythmias,0,-2.66,2.66
+40-59,Both,Conduction disorders and cardiac arrhythmias,-5.66,-7.57,-3.75
+60-79,Both,Conduction disorders and cardiac arrhythmias,-4.38,-6.04,-2.71
+80 and more,Both,Conduction disorders and cardiac arrhythmias,-4.81,-6.01,-3.61
+All Ages,Female,Conduction disorders and cardiac arrhythmias,-4.27,-5.82,-2.72
+< 20,Female,Conduction disorders and cardiac arrhythmias,Inf,NA,NA
+20-39,Female,Conduction disorders and cardiac arrhythmias,0,-3.77,3.77
+40-59,Female,Conduction disorders and cardiac arrhythmias,-5.19,-7.25,-3.12
+60-79,Female,Conduction disorders and cardiac arrhythmias,-2.6,-4.11,-1.08
+80 and more,Female,Conduction disorders and cardiac arrhythmias,-2.39,-3.8,-0.98
+All Ages,Male,Conduction disorders and cardiac arrhythmias,-5.01,-6.87,-3.16
+< 20,Male,Conduction disorders and cardiac arrhythmias,NA,NA,NA
+20-39,Male,Conduction disorders and cardiac arrhythmias,-1.4,-4.6,1.8
+40-59,Male,Conduction disorders and cardiac arrhythmias,-5.16,-7.19,-3.14
+60-79,Male,Conduction disorders and cardiac arrhythmias,-2.97,-4.93,-1.01
+80 and more,Male,Conduction disorders and cardiac arrhythmias,-3.88,-5.04,-2.73
+All Ages,Both,Non-rheumatic valvulopathies,-2.34,-4.66,-0.02
+< 20,Both,Non-rheumatic valvulopathies,NA,NA,NA
+20-39,Both,Non-rheumatic valvulopathies,5.09,0.67,9.5
+40-59,Both,Non-rheumatic valvulopathies,4.9,3.33,6.47
+60-79,Both,Non-rheumatic valvulopathies,-5.51,-8.29,-2.74
+80 and more,Both,Non-rheumatic valvulopathies,-11.44,-17.02,-5.85
+All Ages,Female,Non-rheumatic valvulopathies,-1.33,-4.21,1.54
+< 20,Female,Non-rheumatic valvulopathies,NA,NA,NA
+20-39,Female,Non-rheumatic valvulopathies,18.9,13,24.8
+40-59,Female,Non-rheumatic valvulopathies,6.03,2.79,9.27
+60-79,Female,Non-rheumatic valvulopathies,-3.32,-6.21,-0.44
+80 and more,Female,Non-rheumatic valvulopathies,-10.82,-16.61,-5.03
+All Ages,Male,Non-rheumatic valvulopathies,-4.51,-7.48,-1.55
+< 20,Male,Non-rheumatic valvulopathies,Inf,NA,NA
+20-39,Male,Non-rheumatic valvulopathies,-5.09,-11.15,0.98
+40-59,Male,Non-rheumatic valvulopathies,3.69,1.51,5.86
+60-79,Male,Non-rheumatic valvulopathies,-4.3,-8.13,-0.48
+80 and more,Male,Non-rheumatic valvulopathies,-8.77,-14.58,-2.97
+All Ages,Both,Chronic rheumatic heart diseases,7.86,5.78,9.95
+< 20,Both,Chronic rheumatic heart diseases,NA,NA,NA
+20-39,Both,Chronic rheumatic heart diseases,9.99,4.94,15.04
+40-59,Both,Chronic rheumatic heart diseases,5.78,3.16,8.4
+60-79,Both,Chronic rheumatic heart diseases,9.62,6.8,12.45
+80 and more,Both,Chronic rheumatic heart diseases,10.48,1.78,19.18
+All Ages,Female,Chronic rheumatic heart diseases,4.82,2.98,6.67
+< 20,Female,Chronic rheumatic heart diseases,NA,NA,NA
+20-39,Female,Chronic rheumatic heart diseases,-6.3,-10.72,-1.88
+40-59,Female,Chronic rheumatic heart diseases,-0.67,-2.64,1.29
+60-79,Female,Chronic rheumatic heart diseases,9.64,6.43,12.86
+80 and more,Female,Chronic rheumatic heart diseases,11.11,3.58,18.65
+All Ages,Male,Chronic rheumatic heart diseases,13.05,10.14,15.95
+< 20,Male,Chronic rheumatic heart diseases,-Inf,NA,NA
+20-39,Male,Chronic rheumatic heart diseases,12.6,7.23,17.98
+40-59,Male,Chronic rheumatic heart diseases,13.87,9.93,17.82
+60-79,Male,Chronic rheumatic heart diseases,12.88,10.01,15.76
+80 and more,Male,Chronic rheumatic heart diseases,13.82,NA,NA
+All Ages,Both,Other forms of heart disease,-8.29,-11.31,-5.27
+< 20,Both,Other forms of heart disease,6.3,1.86,10.74
+20-39,Both,Other forms of heart disease,-1.07,-3.49,1.35
+40-59,Both,Other forms of heart disease,-8.86,-11.59,-6.13
+60-79,Both,Other forms of heart disease,-8.55,-11.53,-5.57
+80 and more,Both,Other forms of heart disease,-8.54,-11.11,-5.96
+All Ages,Female,Other forms of heart disease,-7.7,-10.44,-4.97
+< 20,Female,Other forms of heart disease,6.3,2.05,10.55
+20-39,Female,Other forms of heart disease,-1.66,-7.46,4.14
+40-59,Female,Other forms of heart disease,-8.84,-11.02,-6.65
+60-79,Female,Other forms of heart disease,-6.08,-8.88,-3.28
+80 and more,Female,Other forms of heart disease,-6.49,-8.94,-4.03
+All Ages,Male,Other forms of heart disease,-8.7,-12,-5.4
+< 20,Male,Other forms of heart disease,2.62,-3.3,8.53
+20-39,Male,Other forms of heart disease,-3.69,-6.36,-1.01
+40-59,Male,Other forms of heart disease,-8.53,-11.91,-5.15
+60-79,Male,Other forms of heart disease,-7.64,-10.84,-4.44
+80 and more,Male,Other forms of heart disease,-7.15,-10.05,-4.25
